@@ -67,7 +67,8 @@ Introduction.
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Karl Marx, "{{% resource_link "21607c46-f11f-45a9-be89-7ba2a1948a99" "The Communist Manifesto" %}}."  
+Karl Marx, "[The Communist Manifesto](http://www.gutenberg.org/browse/BIBREC/BR61.HTM
+)."  
 Marshall Berman, Introduction to _All That Is Solid Melts into Air_.  
 Max Horkheimer and Theodor Adorno, "The Culture Industry: Enlightenment as Mass Deception."  
 Igor Stravinsky, _The Soldier's Tale_, _The Rake's Progress_.  
