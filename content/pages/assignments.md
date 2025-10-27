@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: All Assignments Courtesy of Michael Barrett; Used with Permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
